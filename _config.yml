@@ -106,8 +106,12 @@ plugins:
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
+- type: git
   repo: https://github.com/Li-Dicker/Li-Dicker.github.io
+  branch: master
+  message:
+- type: git
+  repo: git@li-dicker.top:/repo/blog.git
   branch: master
   message:
 
@@ -136,7 +140,7 @@ rss: /atom.xml
 
 # Security
 encrypt: # hexo-blog-encrypt
-  abstract: 来对暗号吧
+  abstract: 想看就来对暗号吧
   message: 暗号是？
   tags:
   - {name: Secret, password: passwordA}
