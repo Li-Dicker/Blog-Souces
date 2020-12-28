@@ -1,6 +1,7 @@
 ---
 title: No gini
 date: 2020-3-22 23:28:35
+mathjax: true
 tags:
 	- 文章
 	- 感悟

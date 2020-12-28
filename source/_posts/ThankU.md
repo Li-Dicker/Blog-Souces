@@ -1,6 +1,7 @@
 ---
 title: ThankU
 date: 2020-2-10 17:15:50
+mathjax: true
 tags:
 	- 文章
 	- 感悟
