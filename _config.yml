@@ -110,10 +110,10 @@ deploy:
   repo: https://github.com/Li-Dicker/Li-Dicker.github.io
   branch: master
   message:
-- type: git
-  repo: git@li-dicker.top:/repo/blog.git
-  branch: master
-  message:
+# - type: git
+#   repo: git@li-dicker.top:/repo/blog.git
+#   branch: master
+#   message:
 
 sitemap:
   path: sitemap.xml

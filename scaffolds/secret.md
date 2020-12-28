@@ -3,6 +3,7 @@ title: {{ title }}
 date: {{ date }}
 password:
 tags:
+categories:
 abstract: 想看就来对暗号吧
 message: 暗号是？
 wrong_pass_message: 抱歉, 这个密码看着不太对, 请再试试.
